@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="38b20595-45e3-9b7f-d5ca-b57f44c5b66d">
-    <mxGraphModel dx="3473" dy="2637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1389" dy="1565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry x="805.5" y="70" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="frDtQo3g6sEmqBB3ZQIx-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;rotation=-90;" parent="-vGrstxux70pC8W5qF4s-1" vertex="1">
-          <mxGeometry x="1025.72" y="-73.03" width="144.82" height="303.56" as="geometry" />
+          <mxGeometry x="1022.34" y="-66.11" width="141.28" height="293.26" as="geometry" />
         </mxCell>
         <mxCell id="frDtQo3g6sEmqBB3ZQIx-4" value="Server &amp;amp; Network Room" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=17;" parent="-vGrstxux70pC8W5qF4s-1" vertex="1">
           <mxGeometry x="920" y="156" width="130" height="40" as="geometry" />
@@ -477,6 +477,9 @@
             <mxPoint x="140" y="600" as="sourcePoint" />
             <mxPoint x="1000" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-vGrstxux70pC8W5qF4s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="-vGrstxux70pC8W5qF4s-1" source="frDtQo3g6sEmqBB3ZQIx-12" target="frDtQo3g6sEmqBB3ZQIx-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
